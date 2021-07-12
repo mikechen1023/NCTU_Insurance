@@ -7,6 +7,8 @@ Because of NDA, there is no dataset in this repository.
 ## Intro : 
 Predict whether the guest buy the insurance or not.
 ## Files : 
-- DataPreprocessing .ipynb : Data preprocessing
-- model .ipynb : Build the model
-- model_result .pptx : Result of this project
+- DataPreprocessing.ipynb : Data preprocessing with the data from Program Transfer
+- Program Transfer.ipynb : Data preproessing with original datasets
+- model.py: Build the model
+- model_add_sales.py : Build the model and add sales transaction rate into data
+- model_result.pptx : Result of this project
